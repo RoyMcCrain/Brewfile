@@ -75,7 +75,7 @@ brew mas
 brew mpfr
 brew msgpack
 brew ncurses
-brew neovim --HEAD
+brew neovim
 brew netpbm
 brew nim
 brew nkf
@@ -116,9 +116,8 @@ tap homebrew/bundle
 tap homebrew/services
 
 tap homebrew/cask
-cask graphiql
-cask vagrant
-cask visual-studio-code
+cask insomnia
+cask virtualbox
 
 ## Direct install
 brew bootloadhid --HEAD
@@ -157,9 +156,8 @@ tap universal-ctags/universal-ctags
 brew universal-ctags --with-jansson --with-libyaml --HEAD
 
 # Other Cask applications
-cask ngrok
-cask virtualbox
-cask vivaldi
+cask vagrant
+cask visual-studio-code
 
 # App Store applications
 appstore 417375580 BetterSnapTool (1.9.2)
