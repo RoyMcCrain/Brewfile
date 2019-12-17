@@ -77,7 +77,6 @@ brew msgpack
 brew ncurses
 brew neovim
 brew netpbm
-brew nim
 brew nkf
 brew node
 brew node-build
@@ -140,7 +139,6 @@ brew avr-gcc@7
 brew avr-gcc@8
 
 tap puma/puma
-brew puma-dev
 
 tap px4/px4
 brew gcc-arm-none-eabi
