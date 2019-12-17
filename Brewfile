@@ -112,9 +112,13 @@ brew yarn
 
 tap homebrew/bundle
 
+tap homebrew/cask-fonts
+cask font-ricty-diminished
+
 tap homebrew/services
 
 tap homebrew/cask
+cask font-cica
 cask insomnia
 cask virtualbox
 
@@ -154,6 +158,7 @@ tap universal-ctags/universal-ctags
 brew universal-ctags --with-jansson --with-libyaml --HEAD
 
 # Other Cask applications
+cask font-source-han-code-jp
 cask vagrant
 cask visual-studio-code
 
