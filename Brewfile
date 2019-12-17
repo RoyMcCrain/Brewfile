@@ -119,7 +119,6 @@ cask font-source-han-code-jp
 tap homebrew/services
 
 tap homebrew/cask
-cask font-cica
 cask insomnia
 cask virtualbox
 
