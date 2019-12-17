@@ -113,7 +113,8 @@ brew yarn
 tap homebrew/bundle
 
 tap homebrew/cask-fonts
-cask font-ricty-diminished
+cask font-hack-nerd-font
+cask font-source-han-code-jp
 
 tap homebrew/services
 
@@ -158,7 +159,7 @@ tap universal-ctags/universal-ctags
 brew universal-ctags --with-jansson --with-libyaml --HEAD
 
 # Other Cask applications
-cask font-source-han-code-jp
+cask font-ricty-diminished
 cask vagrant
 cask visual-studio-code
 
