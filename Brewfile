@@ -29,7 +29,6 @@ brew ghq
 brew giflib
 brew git
 brew glib
-brew global
 brew gmp
 brew gobject-introspection
 brew goenv --HEAD
@@ -155,7 +154,6 @@ tap sanemat/font
 tap tldr-pages/tldr
 
 tap universal-ctags/universal-ctags
-brew universal-ctags --with-jansson --with-libyaml --HEAD
 
 # Other Cask applications
 cask font-ricty-diminished
