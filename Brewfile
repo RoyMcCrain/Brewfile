@@ -153,8 +153,6 @@ tap sanemat/font
 
 tap tldr-pages/tldr
 
-tap universal-ctags/universal-ctags
-
 # Other Cask applications
 cask font-ricty-diminished
 cask vagrant
